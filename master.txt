@@ -1,1 +1,3 @@
-My first master branch for my simplilearn frontend course
+My first master branch for my simplilearn frontend course.
+
+more to learn daily
